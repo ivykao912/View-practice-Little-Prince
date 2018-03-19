@@ -10,8 +10,8 @@
 		CAD5BA5F2057EF0A00DC45CE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD5BA5E2057EF0A00DC45CE /* AppDelegate.swift */; };
 		CAD5BA612057EF0A00DC45CE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD5BA602057EF0A00DC45CE /* ViewController.swift */; };
 		CAD5BA642057EF0A00DC45CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAD5BA622057EF0A00DC45CE /* Main.storyboard */; };
-		CAD5BA662057EF0A00DC45CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAD5BA652057EF0A00DC45CE /* Assets.xcassets */; };
 		CAD5BA692057EF0A00DC45CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAD5BA672057EF0A00DC45CE /* LaunchScreen.storyboard */; };
+		CAD5BA71205C2E4E00DC45CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAD5BA70205C2E4E00DC45CE /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,9 +19,9 @@
 		CAD5BA5E2057EF0A00DC45CE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CAD5BA602057EF0A00DC45CE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CAD5BA632057EF0A00DC45CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		CAD5BA652057EF0A00DC45CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CAD5BA682057EF0A00DC45CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CAD5BA6A2057EF0A00DC45CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CAD5BA70205C2E4E00DC45CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,10 +54,10 @@
 		CAD5BA5D2057EF0A00DC45CE /* My First App */ = {
 			isa = PBXGroup;
 			children = (
+				CAD5BA70205C2E4E00DC45CE /* Assets.xcassets */,
 				CAD5BA5E2057EF0A00DC45CE /* AppDelegate.swift */,
 				CAD5BA602057EF0A00DC45CE /* ViewController.swift */,
 				CAD5BA622057EF0A00DC45CE /* Main.storyboard */,
-				CAD5BA652057EF0A00DC45CE /* Assets.xcassets */,
 				CAD5BA672057EF0A00DC45CE /* LaunchScreen.storyboard */,
 				CAD5BA6A2057EF0A00DC45CE /* Info.plist */,
 			);
@@ -124,7 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CAD5BA692057EF0A00DC45CE /* LaunchScreen.storyboard in Resources */,
-				CAD5BA662057EF0A00DC45CE /* Assets.xcassets in Resources */,
+				CAD5BA71205C2E4E00DC45CE /* Assets.xcassets in Resources */,
 				CAD5BA642057EF0A00DC45CE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
